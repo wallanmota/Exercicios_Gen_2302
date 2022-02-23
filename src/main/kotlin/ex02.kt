@@ -13,6 +13,14 @@ fun main(){
     var segundo = 0
     var terceiro = 0
 
+    //Usando sort
+//    val numeros : IntArray = intArrayOf(n1,n2,n3)
+//    numeros.sort()
+//
+//    primeiro = numeros[0]
+//    segundo = numeros[1]
+//    terceiro = numeros[2]
+
 
     if(n1 >= n2 && n1 >= n3){
         if(n2>=n3){
